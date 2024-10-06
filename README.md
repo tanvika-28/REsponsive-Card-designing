@@ -1,1 +1,1 @@
-# REsponsive-Card-designing
+# Responsive-Card-designing
